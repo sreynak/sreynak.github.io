@@ -1,0 +1,26 @@
+/*Stylesheet*/
+
+body{
+	/*background:#4285F4;*/
+
+}
+.container{
+	width: 1024px;
+	margin: 0 auto;
+    padding: 0 10px;
+}
+.contain{
+	background: #F1F1F1;
+	padding: 10px;
+}
+.right{
+  	float: right;
+    /*padding: 33px 0 0 41px;*/
+    position: relative;
+    width: 500px;
+    padding: 10px;
+}
+.left{
+	float: left;
+    width: 500px;
+}
