@@ -43,9 +43,9 @@ body{
 	color:#5fa008;
 }
 #header{
+	width: 1024px;
 	margin: 0 auto;
     padding: 15px 0;
-    text-align: center;
 }
 #navi{
 	background: none repeat scroll 0 0 #000;
