@@ -2,25 +2,95 @@
 
 body{
 	/*background:#4285F4;*/
+	margin: 0;
+	padding: 0;
 
 }
 .container{
-	width: 1024px;
-	margin: 0 auto;
-    padding: 0 10px;
+	background: none repeat scroll 0 0 #5fa008;
+    clear: both;
+    width: 100%;
 }
 .contain{
+	width: 1024px;
 	background: #F1F1F1;
-	padding: 10px;
+	margin: 0 auto;
+    padding: 15px 0;
+    color: #666;
 }
 .right{
-  	float: right;
-    /*padding: 33px 0 0 41px;*/
-    position: relative;
-    width: 500px;
-    padding: 10px;
+  	background: #F1F1F1;
+	margin: 0 auto;
+    /*padding: 15px 0;*/
+    color: #666;
 }
 .left{
 	float: left;
-    width: 500px;
+    width: 350px;
 }
+.foot{
+	background: none repeat scroll 0 0 #000;
+    clear: both;
+    width: 100%;
+}
+.contain-foot{
+	margin: 0 auto;
+    padding: 15px 0;
+    text-align: center;
+    color: #666;
+}
+.contain-foot a{
+	color:#5fa008;
+}
+#header{
+	margin: 0 auto;
+    padding: 15px 0;
+    text-align: center;
+}
+#navi{
+	background: none repeat scroll 0 0 #000;
+	clear: both;
+    height: 50px;
+    width: 100%;
+}
+#contain-navi{
+	margin: 0 auto;
+	width: 1024px;
+}
+#navi ul {
+    float: left;
+    list-style: none outside none;
+    margin: 0;
+    padding: 0;
+    width: 740px;
+}
+
+#navi ul li {
+    background: url("images/navi.png") no-repeat scroll right center rgba(0, 0, 0, 0);
+    display: inline;
+    float: left;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    width: 100px;
+}
+#navi ul li a:hover{
+    color: #fff;
+    height: 38px;
+    padding: 15px 0 0;
+}
+#navi ul li a {
+    border: medium none;
+    color: #5fa008;
+    display: block;
+    font-size: 14px;
+    font-weight: normal;
+    height: 32px;
+    margin: 0;
+    outline: medium none;
+    padding: 15px 0 0;
+    text-align: center;
+    text-decoration: none;
+    width: 100px;
+}
+
