@@ -152,7 +152,7 @@ footer{
 .myinfo article.imginfo {
   background-color: white;
   float: left;
-  min-height: 250px;
+  min-height: 340px;
   opacity: 0.8;
   padding: 2%;
   width: 27.33%;
@@ -163,7 +163,7 @@ footer{
   opacity: 0.8;
   padding: 25px 2% 2%;
   width: 64.6%;
-  min-height: 307px;
+  min-height: 335px;
   line-height: 1.6em;
 }
 .wrapperinfo h3{
