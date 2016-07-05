@@ -158,14 +158,16 @@ footer{
   width: 27.33%;
 }
 .myinfo article.info {
-  background-color: white;
+  background-color: #FFF;
   float: left;
-  min-height: 405px;
   opacity: 0.8;
-  padding: 2%;
+  padding: 25px 2% 2%;
   width: 64.6%;
+  min-height: 307px;
+  line-height: 1.6em;
 }
 .wrapperinfo h3{
     font-weight: bold;
     font-size: 30px;
+    padding-bottom: 20px;
 }
